@@ -11,6 +11,8 @@
 2020级软件工程7班
 张凯
 2020012387
+###插入网址
+[百度]https://www.baidu.com/baidu?tn=monline_3_dg&ie=utf-8&wd=%E7%99%BE%E5%BA%A6
 ###插入表格
 |章节|标题|课时|课件|
 |---|---|---|---|
@@ -22,8 +24,6 @@
 |第六章|Xmind|12|下载|
 |第七章|word|4|下载|
 |第八章|Excel|4|下载|
-###插入网址
-[百度]https://www.baidu.com/baidu?tn=monline_3_dg&ie=utf-8&wd=%E7%99%BE%E5%BA%A6
 
 ###列表
 - 虚拟机
